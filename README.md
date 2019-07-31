@@ -5,3 +5,6 @@
 #文艺的小客栈</br>
 #智能垃圾分类管家</br>
 [个人技术博客][www.jiuliusq.net]
+#扫码体验哦
+<img src="https://avatars2.githubusercontent.com/u/35190927"width:200px height:20px>
+
