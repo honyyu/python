@@ -8,5 +8,5 @@
 #扫码体验哦</br>
 <img src="https://avatars2.githubusercontent.com/u/35190927" width:200px height:200px>
 </br>
-#MIT(https://github.com/honyyu/python/blob/master/LICENSE)
+[MIT](https://github.com/honyyu/python/blob/master/LICENSE)
 
